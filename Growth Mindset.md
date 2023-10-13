@@ -1,4 +1,4 @@
-# Growth Mindset
+# Growth 
  Mindset growth is performing tasks
  
  or taking on objectives
@@ -11,5 +11,8 @@
 * Remember why you're doing it 
 * Lastly, follow through
   
-![image](https://linkstaffing.com/wp-content/uploads/mindset.jpg)
+![image](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
+
+
+
 ### This link talks about Mindset Growth [Mindset Link Click me](https://www.wgu.edu/blog/what-is-growth-mindset-8-steps-develop-one1904.html)
