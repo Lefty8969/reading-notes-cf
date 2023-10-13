@@ -13,6 +13,4 @@
   
 ![image](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
-
-
 ### This link talks about Mindset Growth [Mindset Link Click me](https://www.wgu.edu/blog/what-is-growth-mindset-8-steps-develop-one1904.html)
