@@ -8,8 +8,7 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 
 ![Alt text](pics/image-1.png)
 
-
-[Growth Mindset](tableofcontent/Growth Mindset.md)
+[Growth Mindset](tableofcontent/Growth%20Mindset.md)
 
 [Code102](code102notes/Tableofcontents.md)
 
