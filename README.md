@@ -14,4 +14,6 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 
 [Code201](code201notes/tableofcontent.md)
 
+[Code301](code301notes/tableofcontent.md)
 
+[Code401](code401notes/tableofcontent.md)
