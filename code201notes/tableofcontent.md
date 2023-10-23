@@ -1,5 +1,5 @@
-[Notes1](code201notes/readingnote1.md)
-
+[Notes1](
+/Users/luisescobar/courses/reading-notes-cf/code201notes/readingnote1.md)
 [Notes2]()
 
 [Notes3]()
