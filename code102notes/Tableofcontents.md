@@ -14,4 +14,3 @@
 
 [Notes8](readingnotes8.md)
 
-[prompt-engineering](tableofcontent/prompt-engineering.md)
