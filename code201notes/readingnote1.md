@@ -85,8 +85,14 @@ What are the benefits of using semantic tags in our HTML?
 
 Describe 2 things that require JavaScript in the Browser?
 
-* Browser APIs and third party APIs.
+* Browser APIs 
+ * third party APIs.
 
 How can you add JavaScript to an HTML document?
 
 * JavaScript is added with script element.
+
+##  
+* Things I want to know more about
+how to make my website interactive?
+* JS vs python in web development ?

@@ -10,11 +10,11 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 
 [Growth Mindset](tableofcontent/Growth%20Mindset.md)
 
-[Code102](code102notes/Tableofcontents.md)
+[Code 102 - Intro to Software Development](code102notes/Tableofcontents.md)
 
-[Code201](code201notes/tableofcontent.md)
+[Code 201 - Foundations of Software Development](code201notes/tableofcontent.md)
 
-[Code301](code301notes/tableofcontent.md)
+[Code 301 - Intermediate Software Development](code301notes/tableofcontent.md)
 
-[Code401](code401notes/tableofcontent.md)
+[Code 401 - Advanced Software Development](code401notes/tableofcontent.md)
 
