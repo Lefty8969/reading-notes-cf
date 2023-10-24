@@ -12,11 +12,23 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 
 [Code 102 - Intro to Software Development](code102notes/Tableofcontents.md)
 
-[Code 201 - Foundations of Software Development](code201notes/tableofcontent.md)
+
+
+### Code 201 - Foundations of Software Development
 
 [Note1- Introduction to HTML](code201notes/readingnote1.md)
 
 [Note2-Readings: Basics of HTML, CSS & J](code201notes/readingnote2.md)
+
+
+
+
+
+
+
+
+
+
 
 
 
