@@ -1,7 +1,7 @@
 ## Why is this topic so important?
 * Html CSS and JS are very important languages as it will someday guarantee my success. 
 
-
+## HTML reading
 
 ### Why is it important to use semantic elements in our HTML?
 * One of the primary functions of HTML is to provide textual content with semantic meaning, allowing the web browser to render it accurately
@@ -20,6 +20,7 @@
 * Title attribute must added for the full expansion of the term.
 
 
+Learn CSS 
 ### What are ways we can apply CSS to our HTML?
 * Inline Style 
 * internal
@@ -31,16 +32,21 @@
 
 
 ### Review the block of code below and answer the following questions:
+
+
 ### What is representing the selector?
+* h1
 
 
 ### Which components are the CSS declarations?
-* Property and value 
+* Property and value such curly brackets color etc
 
 
 ### Which components are considered properties?
 * Components like font-size, width, background-color.
 
+
+## Learn JS
 
 ### What data type is a sequence of text enclosed in single quote marks? 
 * A string encloses a single qutation mark.
@@ -60,7 +66,7 @@
 
 
 ### An if statement checks a __ and if it evaluates to ___, then the code block will execute.
-
+* when statement checks  condition, if it evals to true, the code block will execute.
 
 ### What is the use of an else if?
 * To create more than 2 out comes to else if.
