@@ -1,5 +1,5 @@
 ## Why is this topic so important?
-
+* Html CSS and JS are very important languages as it will someday guarantee my success. 
 
 
 
@@ -76,3 +76,6 @@
 
 ### What is the difference between the logical operator && and ||? 
 * logical operator && returns true if both operands are true and || logical op retuens true if at least one operand is true.
+
+## Things I want to know more about?
+* how to fix any of my JS codes on my own when not responsive. 
