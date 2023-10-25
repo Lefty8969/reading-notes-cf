@@ -34,7 +34,9 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 
 
 
-[Code 301 - Intermediate Software Development]
+## Code 301 - Intermediate Software Development
 
-[Code 401 - Advanced Software Development]
+
+
+## Code 401 - Advanced Software Development
 

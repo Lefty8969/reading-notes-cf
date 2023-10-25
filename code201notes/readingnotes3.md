@@ -1,3 +1,6 @@
+#### This topic is very imortant to me because this is how we tie in HTML, CSS, and JS together.
+
+
 
 ## Learn HTML
 
@@ -86,3 +89,7 @@ It help create space arount the content.
 
 ## Give an example of when a Loop is useful in JavaScript.
 * A loop is very useful when you wantr to perform a repetitive task.
+
+
+## Things I want to know more about,
+* I want to now more about assigment operations and how to eval them proficiently.
