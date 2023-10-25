@@ -21,7 +21,7 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 [Note2-Readings: Basics of HTML, CSS & J](code201notes/readingnote2.md)
 
 
-[Note3-Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](code201notesreadingnotes3d)
+[Note3-Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](code201notesreadingnotes3)
 
 
 
@@ -34,7 +34,7 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 
 
 
-[Code 301 - Intermediate Software Development](code301notes/tableofcontent.md)
+[Code 301 - Intermediate Software Development]
 
-[Code 401 - Advanced Software Development](code401notes/tableofcontent.md)
+[Code 401 - Advanced Software Development]
 
