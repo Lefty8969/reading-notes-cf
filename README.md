@@ -24,7 +24,7 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 [Note3-Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](code201notes/readingnotes3.md)
 
 
-
+[Notes4-readings:Readings: HTML Links, JS Functions, and Intro to CSS Layout](code201notes/readingnotes4.md)
 
 
 
