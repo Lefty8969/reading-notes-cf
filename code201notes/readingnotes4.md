@@ -22,18 +22,30 @@ Creating Hyperlinks
 
 
 ## CSS Layout
+
 ### CSS Layout: Normal Flow CSS Layout: Positioning
+* 
 
 ### What is meant by “normal flow”?
-What are a few differences between block-level and inline elements?
-
-
-___ positioning is the default for every html element.
 
 
 
-Name a few advantages to using absolute positioning on an element.
-What is a key difference between fixed positioning and absolute positioning?
+
+### What are a few differences between block-level and inline elements?
+* In a block layout, boxes are stacked vertically, starting from the top of a containing block. The left outer edge of each box aligns with the left edge of the containing block.
+* In an inline element 
+
+
+### ___ positioning is the default for every html element.
+
+
+
+### Name a few advantages to using absolute positioning on an element.
+
+
+
+
+### What is a key difference between fixed positioning and absolute positioning?
 
 
 
@@ -41,6 +53,7 @@ Learn JS
 Functions – Reusable Blocks of Code
 
 Describe the difference between a function declaration and a function invocation.
+*
 
 
 
