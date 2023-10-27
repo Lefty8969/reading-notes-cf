@@ -24,9 +24,10 @@ Creating Hyperlinks
 ## CSS Layout
 
 ### CSS Layout: Normal Flow CSS Layout: Positioning
-* 
+* absolute positioning can fixes 
 
 ### What is meant by “normal flow”?
+* When elements are displayed  on html before touching CSS.
 
 
 
@@ -37,28 +38,31 @@ Creating Hyperlinks
 
 
 ### ___ positioning is the default for every html element.
-
+* Static 
 
 
 ### Name a few advantages to using absolute positioning on an element.
+* With absolute postiioning you are able to place any elelment exaclty where you wamt.
 
 
 
-
-### What is a key difference between fixed positioning and absolute positioning?
+### What is a key difference between fixed positioning and absolute positioning? 
+* With fixed positioning the content will not be disotred when scrolling down on a web page.
 
 
 
 Learn JS
 Functions – Reusable Blocks of Code
 
-Describe the difference between a function declaration and a function invocation.
-*
+### Describe the difference between a function declaration and a function invocation.
+* Declartation defines the function name
+* invoking will get the function to execute code
 
 
 
-What is the difference between a parameter and an argument?
-
+### What is the difference between a parameter and an argument?
+* Parameter are placeholders in a function 
+* Arugments are the function call
 
 
 Miscellaneous
