@@ -11,12 +11,13 @@ Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 
 
 ### How can you improve accessibility of images in an HTML document?
-* 
+*  By giving more specific info of the image in the alt portion.
 
 
 
 
-Provide an example of when the figure element would be useful in an HTML document.
+### Provide an example of when the figure element would be useful in an HTML document.
+* An example would be captions for the image. Hlps umderstand realtionship between the image and description. 
 
 
 
@@ -43,7 +44,7 @@ Provide an example of when the figure element would be useful in an HTML documen
 
 
 
-Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character? 
+### Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character? 
 * I'll hop on to CSS and link it html then start targetting elements giving it color style and decorations. 
 example:
 <p> on html
