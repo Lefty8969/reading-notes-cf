@@ -40,12 +40,12 @@
 
 
 ### 1.	What is the DOM?
-### Document Object Model: DOM is a represents the program that allows change to the document structure, style and content
+ Document Object Model: DOM is a represents the program that allows change to the document structure, style and content
 
 
 ### 2.	Briefly describe the relationship between the DOM and JavaScript.
 -	
 
-## I would like to learn why is JS so much harder than Python?
+## I did not understand DOM and the concept of it that much.
 
 
