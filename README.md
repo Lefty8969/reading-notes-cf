@@ -27,10 +27,10 @@ Greetings! My name is Luis Escobar, born and raised in NYC. I'm a U.S Marine Vet
 [Notes4-readings:Readings: HTML Links, JS Functions, and Intro to CSS Layout](code201notes/readingnotes4.md)
 
 
-   [Note5-Readings: Problem Domain, Objects, and the DOM ](code201notesreadingnotes5.md)
+   [Note5-Readings:Readings: Images, Color, Text  ](code201notesreadingnotes5.md)
 
 
-   [Note6-Readings: Readings: Images, Color, Text ](code201notes/readingnotes6.md)
+   [Note6-Readings: Problem Domain, Objects, and the DOM ](code201notes/readingnotes6.md)
 
 
 
